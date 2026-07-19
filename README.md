@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
