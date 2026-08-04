@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -58,16 +59,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0100-same-tree) |
+| [0257-binary-tree-paths](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
