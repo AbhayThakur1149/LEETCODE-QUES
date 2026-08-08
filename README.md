@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
