@@ -6,11 +6,17 @@ class MinStack {
     }
 
     public void push(int val) {
-        st.push(val);
-        if(min.isEmpty() || val <= min.peek()){
+        if(st.isEmpty()){
+            st.push(val);
             min.push(val);
         }else{
-            min.push(min.peek());
+            st.push(val);
+            if(min.peek() < val){
+                min.push(min.peek());
+            }
+            else{
+                min.push(val);
+            }
         }
     }
 
