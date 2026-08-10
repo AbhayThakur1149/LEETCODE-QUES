@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
