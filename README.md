@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0234-palindrome-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0226-invert-binary-tree) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0226-invert-binary-tree) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0100-same-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0226-invert-binary-tree) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0100-same-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0226-invert-binary-tree) |
 ## Backtracking
