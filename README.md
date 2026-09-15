@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0027-remove-element) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0525-contiguous-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -181,4 +183,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
