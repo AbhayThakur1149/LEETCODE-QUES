@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0027-remove-element) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0155-min-stack) |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -168,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
