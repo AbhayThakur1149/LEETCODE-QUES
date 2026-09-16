@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
 | [0525-contiguous-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
