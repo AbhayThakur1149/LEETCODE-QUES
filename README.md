@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0257-binary-tree-paths) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1392-longest-happy-prefix](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1392-longest-happy-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -196,4 +197,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0088-merge-sorted-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
