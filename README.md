@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0088-merge-sorted-array) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0304-range-sum-query-2d-immutable) |
+| [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
 ## Rolling Hash
 |  |
 | ------- |
