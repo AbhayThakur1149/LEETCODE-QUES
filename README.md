@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0646-maximum-length-of-pair-chain) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0646-maximum-length-of-pair-chain) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0686-repeated-string-match) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
