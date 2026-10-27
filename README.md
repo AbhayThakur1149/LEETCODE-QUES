@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0509-fibonacci-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
@@ -243,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AbhayThakur1149/LEETCODE-QUES/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
